@@ -1,0 +1,51 @@
+body {
+    border: solid 2px grey;
+    height: 500px;
+    height: 50vh;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border: solid 2px black;
+    border-radius: 10px;
+    margin: 5px;
+    align-items: center;
+    height: 97%;
+    width: 98%;;
+
+}
+
+.bottom {
+    display: flex;
+    flex-direction: row;
+    line-height: 0.5;
+    margin-top: 3rem;
+    margin: 2rem;;
+
+}
+
+.contact {
+    margin-left: 2rem;;
+}
+
+.address {
+    margin-right: 2rem;
+}
+.p2 {
+    color: grey;
+
+}
+
+
+
+.copyright > p {
+    color: grey;
+    font-size: 0.6rem;
+    margin-top: 3rem;
+}
+
+
+.top {
+    margin-top: 4rem;
+}
